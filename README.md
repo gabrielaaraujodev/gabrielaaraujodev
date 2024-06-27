@@ -1,8 +1,9 @@
-Sou Ex - 3.º Sargento do Exército Brasileiro de Carreira. Hoje, faço faculdade na PUC Minas no curso de Análise e Desenvolvimento de Sistemas.
+Atualmente realizo o curso de de Análise e Desenvolvimento de Sistemas na PUC Minas. 
 
 Durante meu tempo, no exército, eu tive contato e experiência com as seguintes tecnologias e tópicos:
 - Pacote Office
 - Linux
+- Redes
 
 Na faculdade tive e/ou estou tendo contato e experiência com as seguintes tecnologias e tópicos:
 
