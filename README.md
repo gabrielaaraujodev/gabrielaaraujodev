@@ -12,9 +12,11 @@ Front-End
 - HTML
 - CSS
 - Bootstrap
+- ReactJS
 
 Backend
 - C#
+- MySQL
 
 📫 Me encontre em:
 <div style="display: flex; align-items: center">
