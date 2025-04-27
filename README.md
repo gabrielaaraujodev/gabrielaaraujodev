@@ -5,20 +5,8 @@
 Me chamo Gabriel Araujo, tenho 27 anos e sou natural do Rio de Janeiro. Sou graduado em comunicações militares pela Escola de Sargento das Armas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCMG. Tenho interesse genuíno por tecnologia e aprendizado, o que sempre me motiva a buscar conhecimento, resolver problemas e explorar novas ideias.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/gabrielslaraujo">
-        <img 
-            alt="linkedin logo" 
-            title="linkedin logo" 
-            src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:30px; height: 30px"
-        />
-    </a>
-    <a href="https://www.instagram.com/araujogaabriel_/)">
-        <img 
-            alt="instagram logo" 
-            title="instagram logo" 
-            src="https://brunopalmahidroponia.com.br/wp-content/uploads/2020/07/logo-instagram-png-fundo-transparente.png" style="width:30px; height: 30px"
-        />
-    </a>
+    <a href="https://www.linkedin.com/in/gabrielslaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge" target="_blank"></a> 
+    <a href="https://instagram.com/araujogaabriel_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge" target="_blank"></a>
 </p>
 
 ---
