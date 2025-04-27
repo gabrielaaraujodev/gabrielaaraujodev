@@ -122,17 +122,16 @@ Me chamo Gabriel Araujo, tenho 27 anos e sou natural do Rio de Janeiro. Sou grad
   <img 
     align="left" 
     alt="GitHub Stats" 
-    width="500"
+    width="420"
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gabrielaaraujodev&show_icons=true&theme=dark&include_all_commits=true" 
   />
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="GitHub Stats"
+      width="380"
       height="200"
-      style="margin-top: 10px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaaraujodev&theme=dark&layout=compact&custom_title=Technologies&langs_count=11" 
   />
 </p>
