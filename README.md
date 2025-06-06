@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Araujo, tenho 27 anos e sou natural do Rio de Janeiro. Sou graduado em comunicações militares pela Escola de Sargento das Armas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCMG. Tenho interesse genuíno por tecnologia e aprendizado, o que sempre me motiva a buscar conhecimento, resolver problemas e explorar novas ideias.
+Me chamo Gabriel Araujo, tenho 27 anos e sou natural do Rio de Janeiro. Sou graduado em comunicações militares pela Escola de Sargento das Armas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCMG. Tenho grande admiração por tecnologia e aprendizado, o que sempre me motiva a buscar conhecimento, resolver problemas e explorar novas ideias.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gabrielslaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge" target="_blank"></a> 
