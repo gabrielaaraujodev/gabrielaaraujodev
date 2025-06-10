@@ -112,21 +112,6 @@ Estou em busca de oportunidades na área de **tecnologia**, com interesse em atu
 Tenho grande admiração por tecnologia e aprendizado, o que sempre me motiva a buscar conhecimento e explorar novas ideias que geram impacto real para pessoas e organizações. 🚀
 
 
-### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    width="420"
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=gabrielaaraujodev&show_icons=true&theme=dark&include_all_commits=true" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats"
-      width="380"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaaraujodev&theme=dark&layout=compact&custom_title=Technologies&langs_count=11" 
-  />
-</p>
+## 👨🏽‍💻 Alguns projetos que desenvolvi
+- <a href="https://github.com/gabrielaaraujodev/EcoLudico" target="_blank">EcoLudico - Frontend (Facilitar a reciclagem de materiais)</a>
+- <a href="https://github.com/gabrielaaraujodev/EcoLudicoAPI" target="_blank">EcoLudico - Backend (Facilitar a reciclagem de materiais)</a>
