@@ -115,3 +115,4 @@ Tenho grande admiração por tecnologia e aprendizado, o que sempre me motiva a 
 ## 👨🏽‍💻 Alguns projetos que desenvolvi
 - <a href="https://github.com/gabrielaaraujodev/EcoLudico/tree/test" target="_blank">EcoLudico - Frontend (Facilitar a reciclagem de materiais)</a>
 - <a href="https://github.com/gabrielaaraujodev/EcoLudicoAPI/tree/teste" target="_blank">EcoLudico - Backend (Facilitar a reciclagem de materiais)</a>
+- <a href="https://github.com/gabrielaaraujodev/Ludo" target="_blank">Jogo Ludo (POO, Lógica de Programação e Manipulação de Estado)</a>
