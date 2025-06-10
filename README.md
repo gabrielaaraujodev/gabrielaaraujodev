@@ -1,8 +1,6 @@
-# 👨🏽‍💻 Gabriel Araujo
+# 🚀 Olá, eu sou o Gabriel Araujo! 👋
 
-**`Desenvolvedor FullStack`**
-
-Me chamo Gabriel Araujo, tenho 27 anos e sou natural do Rio de Janeiro. Sou graduado em comunicações militares pela Escola de Sargento das Armas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCMG. Tenho grande admiração por tecnologia e aprendizado, o que sempre me motiva a buscar conhecimento, resolver problemas e explorar novas ideias.
+Sou graduado em **Comunicações Militares** pela Escola de Sargento das Armas e estou graduando em **Análise e Desenvolvimento de Sistemas** na PUC/MG, com experiência prática em **Desenvolvimento Fullstack**. Atualmente trabalho como **Desenvolvedor Fullstack Junior** na empresa Ambula.  
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gabrielslaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge" target="_blank"></a> 
@@ -12,6 +10,8 @@ Me chamo Gabriel Araujo, tenho 27 anos e sou natural do Rio de Janeiro. Sou grad
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+Durante minha trajetória como Desenvolvedor de software, tive a chance de trabalhar com diversas tecnologias, incluindo:
 
 <img 
     align="left" 
@@ -104,6 +104,13 @@ Me chamo Gabriel Araujo, tenho 27 anos e sou natural do Rio de Janeiro. Sou grad
 
 <br/>
 <br/>
+
+## 🎯 O que busco
+
+Estou em busca de oportunidades na área de **tecnologia**, com interesse em atuar como **Desenvolvedor Fullstack**.
+
+Tenho grande admiração por tecnologia e aprendizado, o que sempre me motiva a buscar conhecimento e explorar novas ideias que geram impacto real para pessoas e organizações. 🚀
+
 
 ### 📊 Estatísticas
 <p>
