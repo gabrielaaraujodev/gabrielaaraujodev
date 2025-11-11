@@ -114,8 +114,9 @@ Estou em busca de oportunidades na área de **tecnologia**, com interesse em atu
 Tenho grande admiração por tecnologia e aprendizado, o que sempre me motiva a buscar conhecimento e explorar novas ideias que geram impacto real para pessoas e organizações. 🚀
 
 ## 👨🏽‍💻 Alguns projetos que desenvolvi
-- <a href="https://github.com/gabrielaaraujodev/EcoLudico/tree/test" target="_blank">EcoLudico - Frontend (Facilitar a reciclagem de materiais)</a>
+- <a href="https://github.com/gabrielaaraujodev/SweetfyAPI" target="_blank">SweetfyAPI - Backend (App para pequenos empresários confeiteiros)</a>
 - <a href="https://github.com/gabrielaaraujodev/EcoLudicoAPI/tree/teste" target="_blank">EcoLudico - Backend (Facilitar a reciclagem de materiais)</a>
+- <a href="https://github.com/gabrielaaraujodev/EcoLudico/tree/test" target="_blank">EcoLudico - Frontend (Facilitar a reciclagem de materiais)</a>
 - <a href="https://github.com/gabrielaaraujodev/Ludo" target="_blank">Jogo Ludo (POO, Lógica de Programação e Manipulação de Estado)</a>
 
 <br/>
@@ -231,8 +232,7 @@ I am seeking opportunities in the technology field, with an interest in working 
 I have a strong passion for technology and learning, which always motivates me to seek knowledge and explore new ideas that create real impact for people and organizations. 🚀
 
 ## 👨🏽‍💻 Some projects I developed
-- <a href="https://github.com/gabrielaaraujodev/EcoLudico/tree/test" target="_blank">EcoLudico - Frontend (Making recycling easier)</a>
-
+- <a href="https://github.com/gabrielaaraujodev/SweetfyAPI" target="_blank">SweetfyAPI – Backend (App for small confectionery business owners)</a>
 - <a href="https://github.com/gabrielaaraujodev/EcoLudicoAPI/tree/teste" target="_blank">EcoLudico - Backend (Making recycling easier)</a>
-
+- <a href="https://github.com/gabrielaaraujodev/EcoLudico/tree/test" target="_blank">EcoLudico - Frontend (Making recycling easier)</a>
 - <a href="https://github.com/gabrielaaraujodev/Ludo" target="_blank">Ludo Game (OOP, Programming Logic, State Management)</a>
