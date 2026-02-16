@@ -64,7 +64,7 @@ Each project highlights different aspects of frontend, backend, and full-stack d
 
 💻 Engenheiro de Software na **Accenture**
 
-Atuou anteriormente como **Developer I na Ambula (Portugal)**.
+Atuei anteriormente como **Developer I na Ambula (Portugal)**.
 
 Graduado em **Comunicações Militares** pela Escola de Sargentos das Armas e atualmente cursando **Análise e Desenvolvimento de Sistemas**.
 
