@@ -34,6 +34,7 @@ Former **Sergeant in the Brazilian Army**.
 - jQuery
 - React
 - Angular
+- Zustand
 
 ### ☁️ Cloud & CI/CD
 - GitLab CI/CD
