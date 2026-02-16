@@ -1,5 +1,9 @@
 # Gabriel Araujo
 
+---
+
+# 🇺🇸 English Version
+
 💻 Software Engineer at **Accenture**
 
 Previously worked as **Developer I at Ambula (Portugal)**.
@@ -56,7 +60,54 @@ Each project highlights different aspects of frontend, backend, and full-stack d
 
 ---
 
-## 🤝 Connect
+# 🇧🇷 Versão em Português
+
+💻 Engenheiro de Software na **Accenture**
+
+Atuou anteriormente como **Developer I na Ambula (Portugal)**.
+
+Graduado em **Comunicações Militares** pela Escola de Sargentos das Armas e atualmente cursando **Análise e Desenvolvimento de Sistemas**.
+
+Ex-**Sargento do Exército Brasileiro**.
+
+---
+
+## ⚙️ Tecnologias
+
+### 🚀 Backend
+- C#
+- .NET
+- VB.NET
+- Entity Framework Core
+- SQL Server
+- PostgreSQL
+- MySQL
+- Stored Procedures
+- Database Jobs
+
+### 🌐 Frontend
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- React
+- Angular
+
+### ☁️ Cloud & CI/CD
+- GitLab CI/CD
+- GitHub Actions
+- Azure Virtual Machines
+
+### 🧩 Metodologias & Ferramentas
+- Scrum
+- Kanban
+- Jira
+- Microsoft Teams
+- Zoom
+
+---
+
+## 🤝 Contato
 
 💼 **LinkedIn:** [linkedin.com/in/gabrielslaraujo](https://www.linkedin.com/in/gabrielslaraujo)  
 📸 **Instagram:** [instagram.com/araujogaabriel_](https://instagram.com/araujogaabriel_)
