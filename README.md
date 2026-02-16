@@ -1,238 +1,62 @@
-# Portuguese Version
+# Gabriel Araujo
 
-# 🚀 Olá, eu sou o Gabriel Araujo! 👋
+💻 Software Engineer at **Accenture**
 
-Sou graduado em **Comunicações Militares** pela Escola de Sargento das Armas e estou graduando em **Análise e Desenvolvimento de Sistemas** na PUC/MG, com experiência prática em **Desenvolvimento Fullstack**. Atualmente trabalho como **Desenvolvedor Fullstack Junior** na empresa Ambula.  
+Previously worked as **Developer I at Ambula (Portugal)**.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/gabrielslaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge" target="_blank"></a> 
-    <a href="https://instagram.com/araujogaabriel_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge" target="_blank"></a>
-</p>
+Graduated in **Military Communications** from the Escola de Sargentos das Armas and currently pursuing a degree in **Systems Analysis and Development**.
+
+Former **Sergeant in the Brazilian Army**.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## ⚙️ Technologies
 
-Durante minha trajetória como Desenvolvedor de software, tive a chance de trabalhar com diversas tecnologias, incluindo:
+### 🚀 Backend
+- C#
+- .NET
+- VB.NET
+- Entity Framework Core
+- SQL Server
+- PostgreSQL
+- MySQL
+- Stored Procedures
+- Database Jobs
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Csharp" 
-    title="Csharp"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
+### 🌐 Frontend
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- React
+- Angular
 
-<br/>
-<br/>
+### ☁️ Cloud & CI/CD
+- GitLab CI/CD
+- GitHub Actions
+- Azure Virtual Machines
 
-## 🎯 O que busco
+### 🧩 Agile & Tools
+- Scrum
+- Kanban
+- Jira
+- Microsoft Teams
+- Zoom
 
-Estou em busca de oportunidades na área de **tecnologia**, com interesse em atuar como **Desenvolvedor Fullstack**.
+---
 
-Tenho grande admiração por tecnologia e aprendizado, o que sempre me motiva a buscar conhecimento e explorar novas ideias que geram impacto real para pessoas e organizações. 🚀
+## 🌐 Selected Projects
 
-## 👨🏽‍💻 Alguns projetos que desenvolvi
-- <a href="https://github.com/gabrielaaraujodev/SweetfyAPI" target="_blank">SweetfyAPI - Backend (App para pequenos empresários confeiteiros)</a>
-- <a href="https://github.com/gabrielaaraujodev/EcoLudicoAPI/tree/teste" target="_blank">EcoLudico - Backend (Facilitar a reciclagem de materiais)</a>
-- <a href="https://github.com/gabrielaaraujodev/EcoLudico/tree/test" target="_blank">EcoLudico - Frontend (Facilitar a reciclagem de materiais)</a>
-- <a href="https://github.com/gabrielaaraujodev/Ludo" target="_blank">Jogo Ludo (POO, Lógica de Programação e Manipulação de Estado)</a>
+A curated selection of my projects is available in my portfolio:
 
-<br/>
-<br/>
+🔗 **Portfolio:** https://thedevlion.github.io/portfolio/  
+💻 **GitHub Organization:** https://github.com/TheDevLion  
 
-# English Version
+Each project highlights different aspects of frontend, backend, and full-stack development.
 
-# 🚀 Hi, i'm Gabriel Araujo! 👋
+---
 
-I hold a degree in Military Communications from the Sergeant School of Arms and I am currently pursuing a degree in Systems Analysis and Development at PUC/MG, with practical experience in Fullstack Development. Currently, I work as a Junior Fullstack Developer at Ambula.
+## 🤝 Connect
 
-<p align="left"> <a href="https://www.linkedin.com/in/gabrielslaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge" target="_blank"></a> <a href="https://instagram.com/araujogaabriel_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge" target="_blank"></a> </p>
-
-## 🤖 Languages and Technologies
-
-Throughout my software development journey, I’ve had the opportunity to work with various technologies, including:
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Csharp" 
-    title="Csharp"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-
-<br/> <br/>
-
-## 🎯 What I’m Looking For
-
-I am seeking opportunities in the technology field, with an interest in working as a Fullstack Developer.
-
-I have a strong passion for technology and learning, which always motivates me to seek knowledge and explore new ideas that create real impact for people and organizations. 🚀
-
-## 👨🏽‍💻 Some projects I developed
-- <a href="https://github.com/gabrielaaraujodev/SweetfyAPI" target="_blank">SweetfyAPI – Backend (App for small confectionery business owners)</a>
-- <a href="https://github.com/gabrielaaraujodev/EcoLudicoAPI/tree/teste" target="_blank">EcoLudico - Backend (Making recycling easier)</a>
-- <a href="https://github.com/gabrielaaraujodev/EcoLudico/tree/test" target="_blank">EcoLudico - Frontend (Making recycling easier)</a>
-- <a href="https://github.com/gabrielaaraujodev/Ludo" target="_blank">Ludo Game (OOP, Programming Logic, State Management)</a>
+💼 **LinkedIn:** [linkedin.com/in/gabrielslaraujo](https://www.linkedin.com/in/gabrielslaraujo)  
+📸 **Instagram:** [instagram.com/araujogaabriel_](https://instagram.com/araujogaabriel_)
